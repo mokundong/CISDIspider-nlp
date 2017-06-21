@@ -1,0 +1,1 @@
+ <tr style.*?width="42".*?10.5pt">3</span></p>.*?width="59".*?10.5pt">(.*?)</span></p>.*?width="45".*?10.5pt">(.*?)</span></p>.*?width="71".*?10.5pt">(.*?)</span></p>.*?width="66".*?10.5pt">(.*?)</sp

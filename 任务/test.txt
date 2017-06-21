@@ -1,0 +1,630 @@
+<!doctype html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<link href="../../../../../images/base.css" type="text/css" rel="stylesheet" />
+<link href="../../../../../images/index.css" type="text/css" rel="stylesheet" />
+<title>拟审查项目公示 </title>
+<script type="text/javascript" src="../../../../../images/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="../../../../../images/index.js"></script>
+<script>
+$(function(){
+    $('.main_rt_line span').css('width',$('.main_rt_tit a').width()+20)
+})
+</script>
+<meta name="filetype" content="0"> 
+<meta name="publishedtype" content="1"> 
+<meta name="pagetype" content="2"> 
+<meta name="catalogs" content="13217"> 
+</head>
+<body>
+
+<!--xxxxxxxxxxxxx-->
+<div class='top'>
+  <div class="top1" >
+  <a href="http://email.mep.gov.cn" target="_blank" ><img src="/images/xinxiang.png" /></a> 
+  <a href="http://www.mep.gov.cn/home/khdxz/" target="_blank" ><img src="/images/shouji.png" /></a>
+  <!---<a href="#"><img src="/images/erweima.png" /></a>---->
+  <!--<a href="http://www.mep.gov.cn/home/wbwx/201605/t20160527_352296.shtml" target="_blank" ><img src="/images/weibo.png" /></a>-->
+  <!--<a href="http://www.mep.gov.cn/home/wbwx/201605/t20160527_352248.shtml" target="_blank" ><img src="/images/weixin.png" /></a>-->
+
+<script type="text/javascript">
+  function j2gb(url){
+    if(location.hostname=="big5.mep.gov.cn")
+    {
+      location.href="ht"+"tp://"+url;
+      return false;
+    }else{
+      return false;
+    }
+  }
+</script>
+
+  <a href="#" onclick="return j2gb('www.mep.gov.cn');"  target="_blank" ><img src="/images/jian.png" /></a>
+  <a href="http://big5.mep.gov.cn/gate/big5/www.mep.gov.cn/"  target="_blank"><img src="/images/fan.png" /></a>
+  <a href="http://english.mep.gov.cn/" target="_blank"><img src="/images/ying.png" /></a>
+  </div>
+
+
+</div>
+<div class='head'>
+	<div class='left'><a href='http://www.mep.gov.cn/'><img src="/images/logo.png" /></a></div>
+	<div class='right w_313'>
+        <form id="form2"  method="post"  action="http://websearch.mep.gov.cn/was5/web/search?">
+		<div class="search">
+			<input type="hidden" name="channelid" value="233948" />
+			<input type="text" name="searchword" id="searchword" />
+			<input type="submit" value="" />
+		</div>
+		<span class="hot"><span  style="float:right;"><a href="http://websearch.mep.gov.cn/was5/web/mepadvanced.jsp" ><span class="cb20000">高级检索</span></a></span>
+               <span class='cb20000'>热词：</span>
+<script>
+var searchword = encodeURIComponent('环保督察');  
+document.write("<a href='http://websearch.mep.gov.cn/was5/web/search?searchword="+searchword+"&channelid=233948&presearchword=&sortfield=-docreltime' target='_blank' >环保督察</a>")
+</script>
+			   &nbsp;
+<script>
+var searchword = encodeURIComponent('环境管理');  
+document.write("<a href='http://websearch.mep.gov.cn/was5/web/search?searchword="+searchword+"&channelid=233948&presearchword=&sortfield=-docreltime' target='_blank' >环境管理</a>")
+</script>
+			   &nbsp;
+<script>
+var searchword = encodeURIComponent('排污许可');  
+document.write("<a href='http://websearch.mep.gov.cn/was5/web/search?searchword="+searchword+"&channelid=233948&presearchword=&sortfield=-docreltime' target='_blank' >排污许可</a>")
+</script>
+			   &nbsp;</span>
+        </form>
+	</div>
+	<div class='clear'></div>
+</div>
+<div class="nav bbb20000">
+  <ul>
+    <li>
+<a href="http://www.mep.gov.cn/zjhb/" class='a'>走进环保</a>
+    </li>
+    <li>
+<a href="http://www.mep.gov.cn/hjzl/" class='a'>环境质量</a>
+    </li>
+    <li>
+<a href="http://www.mep.gov.cn/hjzli/" class='a'>污染防治</a>
+    </li>
+    <li>
+<a href="http://www.mep.gov.cn/stbh/" class='a'>生态保护</a>
+     </li>
+    <li>
+<a href="http://www.mep.gov.cn/hyfs_12801/" class='a'>核与辐射</a>
+    </li>
+    <li>
+<a href="http://www.mep.gov.cn/xxgk/" class='a'>信息公开</a>
+     </li>
+    <li>
+<a href="http://www.mep.gov.cn/hdjl/" class='a'>互动交流</a>
+    </li>
+    <li>
+<a href="http://www.mep.gov.cn/gzfw_13107/" class='a'>公众服务</a>
+     </li>
+    <li>
+<a href="http://www.mep.gov.cn/djgz/" class='a'>党风廉政</a>         
+    </li>
+  
+  </ul>
+</div>
+<div class="adress">   <a href="../../../../../" target="_self" title="首页" class="CurrChnlCls">首页</a>&nbsp;>&nbsp;<a href="../../../" target="_self" title="热点区" class="CurrChnlCls">热点区</a>&nbsp;>&nbsp;<a href="../../" target="_self" title="环境影响评价" class="CurrChnlCls">环境影响评价</a>&nbsp;>&nbsp;<a href="../" target="_self" title="建设项目环境影响评价" class="CurrChnlCls">建设项目环境影响评价</a>&nbsp;>&nbsp;<a href="./" target="_self" title="拟审查项目公示" class="CurrChnlCls">拟审查项目公示</a> </div>
+<div class="main">
+    <div class="main_lt">
+    <div class="main_lt_tit">建设项目环境影响评价</div>
+    <div class="main_lt_box">
+    	<ul>
+	
+
+        	<li ><a href="../xmslqk/" >项目受理情况</a></li>
+
+	
+
+        	<li class="hover"><a href="./" >拟审查项目公示</a></li>
+
+	
+
+        	<li ><a href="../ypzxmgg/" >已批准项目公告</a></li>
+
+	
+        </ul>
+    </div>
+  </div>  
+  <div class="main_rt" style='height: 834px;'>
+  	<div class="main_rt_tit_line"><span class="txt">拟审查项目公示</span></div>
+    <div class="main_rt_list">
+    	<ul>
+                   
+                	<li style='font-size:14px;'><span>2017-05-03</span><a target="_blank" href="http://hps.mep.gov.cn/jsxm/npzxmgs/201705/t20170503_413420.shtml"  title="2017年5月3日环境保护部关于内蒙古上海庙矿区长城六号煤矿项目等5个环境影响评价文件拟进行审查公示">2017年5月3日环境保护部关于内蒙古上海庙矿区长城六号煤矿项目等5个环境影响评价文件拟进行...</a></li>
+ 	               
+                	<li style='font-size:14px;'><span>2017-04-05</span><a target="_blank" href="http://hps.mep.gov.cn/jsxm/npzxmgs/201704/t20170405_409325.shtml"  title="2017年4月5日环境保护部关于青海矿业集团股份有限公司60万吨/年烯烃项目环境影响评价文件拟进行审查公示">2017年4月5日环境保护部关于青海矿业集团股份有限公司60万吨/年烯烃项目环境影响评价文件拟...</a></li>
+ 	               
+                	<li style='font-size:14px;'><span>2017-03-17</span><a target="_blank" href="http://hps.mep.gov.cn/jsxm/npzxmgs/201703/t20170317_408321.shtml"  title="2017年3月17日环境保护部关于锡林郭勒峰峰能源有限公司查干淖尔一号井项目等4个环境影响评价文件拟进行审查公示">2017年3月17日环境保护部关于锡林郭勒峰峰能源有限公司查干淖尔一号井项目等4个环境影响评价...</a></li>
+ 	               
+                	<li style='font-size:14px;'><span>2017-02-28</span><a target="_blank" href="http://hps.mep.gov.cn/jsxm/npzxmgs/201702/t20170228_397933.shtml"  title="2017年2月28日环境保护部关于蒙西煤制天然气外输管道项目等6个环境影响评价文件拟进行审查公示">2017年2月28日环境保护部关于蒙西煤制天然气外输管道项目等6个环境影响评价文件拟进行审查公示</a></li>
+ 	               
+                	<li style='font-size:14px;'><span>2017-01-18</span><a target="_blank" href="http://hps.mep.gov.cn/jsxm/npzxmgs/201701/t20170118_394955.shtml"  title="2017年1月18日环境保护部关于伊泰伊犁能源有限公司100万吨/年煤制油示范项目等4个环境影响评价文件拟进行审查公示">2017年1月18日环境保护部关于伊泰伊犁能源有限公司100万吨/年煤制油示范项目等4个环境影响评...</a></li>
+ 	               
+                	<li style='font-size:14px;'><span>2016-12-14</span><a target="_blank" href="http://hps.mep.gov.cn/jsxm/npzxmgs/201612/t20161214_369083.shtml"  title="2016年12月14日环境保护部关于滁河汊河船闸重建工程等7个环境影响评价文件拟进行审查公示">2016年12月14日环境保护部关于滁河汊河船闸重建工程等7个环境影响评价文件拟进行审查公示</a></li>
+ 	               
+                	<li style='font-size:14px;'><span>2016-11-18</span><a target="_blank" href="http://hps.mep.gov.cn/jsxm/npzxmgs/201611/t20161117_367802.shtml"  title="2016年11月18日环境保护部关于广西玉林民用机场等5个环境影响评价文件拟进行审查公示">2016年11月18日环境保护部关于广西玉林民用机场等5个环境影响评价文件拟进行审查公示</a></li>
+ 	               
+                	<li style='font-size:14px;'><span>2016-10-21</span><a target="_blank" href="http://hps.mep.gov.cn/jsxm/npzxmgs/201610/t20161021_365892.shtml"  title="2016年10月21日环境保护部关于新建赣州至深圳客运专线等7个环境影响评价文件拟进行审查公示">2016年10月21日环境保护部关于新建赣州至深圳客运专线等7个环境影响评价文件拟进行审查公示</a></li>
+ 	               
+                	<li style='font-size:14px;'><span>2016-10-08</span><a target="_blank" href="http://hps.mep.gov.cn/jsxm/npzxmgs/201610/t20161009_365145.shtml"  title="2016年10月8日环境保护部关于鄂尔多斯-安平-沧州输气管道工程等7个环境影响评价文件拟进行审查公示">2016年10月8日环境保护部关于鄂尔多斯-安平-沧州输气管道工程等7个环境影响评价文件拟进行审...</a></li>
+ 	               
+                	<li style='font-size:14px;'><span>2016-09-06</span><a target="_blank" href="http://hps.mep.gov.cn/jsxm/npzxmgs/201609/t20160906_363663.shtml"  title="2016年9月6日环境保护部关于天津液化天然气（LNG）项目输气干线工程变更等5个环境影响评价文件拟进行审查公示">2016年9月6日环境保护部关于天津液化天然气（LNG）项目输气干线工程变更等5个环境影响评价文...</a></li>
+ 	               
+                	<li style='font-size:14px;'><span>2016-07-28</span><a target="_blank" href="./201607/t20160728_361407.shtml"  title="2016年7月28日环境保护部关于苏州港太仓港区四期工程等2个环境影响评价文件拟进行审查公示">2016年7月28日环境保护部关于苏州港太仓港区四期工程等2个环境影响评价文件拟进行审查公示</a></li>
+ 	               
+                	<li style='font-size:14px;'><span>2016-07-18</span><a target="_blank" href="http://hps.mep.gov.cn/jsxm/npzxmgs/201607/t20160718_360883.shtml"  title="2016年7月18日环境保护部关于中仪征-长岭原油管道复线工程仪征至九江段(工程变更)等3个环境影响评价文件拟进行审查公示">2016年7月18日环境保护部关于中仪征-长岭原油管道复线工程仪征至九江段(工程变更)等3个环境...</a></li>
+ 	               
+                	<li style='font-size:14px;'><span>2016-06-30</span><a target="_blank" href="http://hps.mep.gov.cn/jsxm/npzxmgs/201606/t20160630_356541.shtml"  title="2016年6月30日环境保护部关于内蒙古伊泰煤炭股份有限公司塔拉壕矿井变更环境影响评价文件拟进行审查公示">2016年6月30日环境保护部关于内蒙古伊泰煤炭股份有限公司塔拉壕矿井变更环境影响评价文件拟...</a></li>
+ 	               
+                	<li style='font-size:14px;'><span>2016-06-15</span><a target="_blank" href="http://hps.mep.gov.cn/jsxm/npzxmgs/201606/t20160615_354520.shtml"  title="2016年6月15日环境保护部关于宁波-舟山港外钓30万吨级油品公共码头项目环境影响评价文件拟进行审查公示">2016年6月15日环境保护部关于宁波-舟山港外钓30万吨级油品公共码头项目环境影响评价文件拟进...</a></li>
+ 	               
+                	<li style='font-size:14px;'><span>2016-05-31</span><a target="_blank" href="./201605/t20160531_352409.shtml"  title="2016年5月31日环境保护部关于安徽省定远县江巷水库工程等13个项目环境影响评价文件拟进行审查公示">2016年5月31日环境保护部关于安徽省定远县江巷水库工程等13个项目环境影响评价文件拟进行审...</a></li>
+ 	                
+        </ul>
+    </div>
+    <div class="page">
+  <script language="javascript">
+	var currentPage=0;
+	var prevPage=currentPage-1
+	var nextPage=currentPage+1
+	var countPage=25
+	var endPage=countPage-1
+	document.write("<a href=\"index.shtml\" target=\"_self\" >首页</a>&nbsp;");
+	if(countPage>1&&currentPage!=0&&currentPage!=1)
+document.write("<a  href=\"index"+"_"+prevPage+"."+"shtml\" target=\"_self\"><</a>&nbsp;");
+	else if(countPage>1&&currentPage!=0&&currentPage==1)
+document.write("<a  href=\"index.shtml\" target=\"_self\"><</a>&nbsp;");
+	else
+document.write("<a><</a>&nbsp;");
+	var num=6;
+	var startPage=currentPage-2;
+	if(startPage<0)startPage=0;
+	var endpage=startPage+num;
+	if(endpage>countPage)
+	endpage=countPage;
+	startPage=endpage-6;
+	if(startPage<0)startPage=0;
+	for(var i=startPage;i<endpage;i++){
+		if(currentPage==i)
+document.write("<a class='hover'>"+(i+1)+"</a>&nbsp;");
+	else if(i==0){
+document.write("<a  href=\"index.shtml\" target=\"_self\">"+1+"</a>&nbsp;");
+		 }else
+document.write("<a href=\"index"+"_"+i+"."+"shtml\" target=\"_self\">"+(i+1)+"</a>&nbsp;");}
+	if(countPage>1&&currentPage!=(countPage-1))
+document.write("<a href=\"index"+"_"+nextPage+"."+"shtml\" target=\"_self\">></a>&nbsp;");
+	else
+document.write("<a class='tow'>></a>&nbsp;");
+if(countPage==1)
+	document.write("<a  href=\"index.shtml\" target=\"_self\">尾页</a>");
+else if(countPage>1)
+document.write("<a  href=\"index_"+endPage+".shtml\" target=\"_self\">尾页</a>");
+</script>
+        </div>
+  </div>
+</div>
+<div class="clear"></div>
+<div class="foot_down">
+<div class="foot-box1">
+<div class="foot-select">
+<div class="footer">
+    <div class="select">
+      <div class="select_">
+      
+        <a href="http://www.mfa.gov.cn">外交部</a>
+      
+        <a href="http://www.mod.gov.cn">国防部</a>
+      
+        <a href="http://www.ndrc.gov.cn">发展改革委</a>
+      
+        <a href="http://www.moe.gov.cn">教育部</a>
+      
+        <a href="http://www.most.gov.cn">科技部</a>
+      
+        <a href="http://www.miit.gov.cn/">工业和信息化部</a>
+      
+        <a href="http://www.seac.gov.cn">国家民委</a>
+      
+        <a href="http://www.mps.gov.cn">公安部</a>
+      
+        <a href="http://www.ccdi.gov.cn">监察部</a>
+      
+        <a href="http://www.mca.gov.cn">民政部</a>
+      
+        <a href="http://www.moj.gov.cn/">司法部</a>
+      
+        <a href="http://www.mof.gov.cn">财政部</a>
+      
+        <a href="http://www.mohrss.gov.cn/">人力资源社会保障部</a>
+      
+        <a href="http://www.mlr.gov.cn/">国土资源部</a>
+      
+        <a href="http://www.mep.gov.cn/">环境保护部</a>
+      
+        <a href="http://www.mohurd.gov.cn/">住房城乡建设部</a>
+      
+        <a href="http://www.moc.gov.cn/">交通运输部</a>
+      
+        <a href="http://www.mwr.gov.cn/">水利部</a>
+      
+        <a href="http://www.moa.gov.cn/">农业部</a>
+      
+        <a href="http://www.mofcom.gov.cn/">商务部</a>
+      
+        <a href="http://www.mcprc.gov.cn/">文化部</a>
+      
+        <a href="http://www.nhfpc.gov.cn/">卫生计生委</a>
+      
+        <a href="http://www.pbc.gov.cn/">人民银行</a>
+      
+        <a href="http://www.audit.gov.cn/">审计署</a>
+      
+        <a href="http://www.china-language.gov.cn/">国家语委</a>
+      
+        <a href="http://www.cnsa.gov.cn">航天局</a>
+      
+        <a href="http://www.caea.gov.cn">原子能机构</a>
+      
+        <a href="http://www.sasac.gov.cn/">国资委</a>
+      
+        <a href="http://www.customs.gov.cn/">海关总署</a>
+      
+        <a href="http://www.chinatax.gov.cn/">税务总局</a>
+      
+        <a href="http://www.saic.gov.cn/">工商总局</a>
+      
+        <a href="http://www.aqsiq.gov.cn/">质检总局</a>
+      
+        <a href="http://xn--79qy5jwte2pa03geqdl6n7lzw6fb55g.xn--fiqs8s/">新闻出版广电总局</a>
+      
+        <a href="http://www.sport.gov.cn/">体育总局</a>
+      
+        <a href="http://www.chinasafety.gov.cn/">安全监管总局</a>
+      
+        <a href="http://www.sda.gov.cn/WS01/CL0001/">食品药品监管总局</a>
+      
+        <a href="http://www.stats.gov.cn/">统计局</a>
+      
+        <a href="http://www.forestry.gov.cn/">林业局</a>
+      
+        <a href="http://www.sipo.gov.cn/">知识产权局</a>
+      
+        <a href="http://www.cnta.gov.cn/">旅游局</a>
+      
+        <a href="http://www.sara.gov.cn/">宗教局</a>
+      
+        <a href="http://www.counsellor.gov.cn/">参事室</a>
+      
+        <a href="http://www.ggj.gov.cn/">国管局</a>
+      
+        <a href="http://www.ncac.gov.cn/">版权局</a>
+      
+        <a href="http://www.gqb.gov.cn/">侨办</a>
+      
+        <a href="http://www.hmo.gov.cn/">港澳办</a>
+      
+        <a href="http://www.chinalaw.gov.cn/">法制办</a>
+      
+        <a href="http://www.gov.cn/gjjg/2005-12/26/content_137261.htm">国研室</a>
+      
+        <a href="http://www.gwytb.gov.cn/">台办</a>
+      
+        <a href="http://www.scio.gov.cn/">新闻办</a>
+      
+        <a href="http://www.xinhuanet.com/">新华社</a>
+      
+        <a href="http://www.cas.cn/">中科院</a>
+      
+        <a href="http://cass.cssn.cn/">社科院</a>
+      
+        <a href="http://www.cae.cn/">工程院</a>
+      
+        <a href="http://www.drc.gov.cn/">发展研究中心</a>
+      
+        <a href="http://www.nsa.gov.cn/">行政学院</a>
+      
+        <a href="http://www.cea.gov.cn/">地震局</a>
+      
+        <a href="http://www.cma.gov.cn/">气象局</a>
+      
+        <a href="http://www.cbrc.gov.cn/index.html">银监会</a>
+      
+        <a href="http://www.csrc.gov.cn/">证监会</a>
+      
+        <a href="http://www.circ.gov.cn/">保监会</a>
+      
+        <a href="http://www.ssf.gov.cn/">社保基金会</a>
+      
+        <a href="http://www.nsfc.gov.cn/">自然科学基金会</a>
+      
+        <a href="http://www.gjxfj.gov.cn/">信访局</a>
+      
+        <a href="http://www.chinagrain.gov.cn/">粮食局</a>
+      
+        <a href="http://www.nea.gov.cn/">能源局</a>
+      
+        <a href="http://www.sastind.gov.cn/">国防科工局</a>
+      
+        <a href="http://www.tobacco.gov.cn/">烟草局</a>
+      
+        <a href="http://www.safea.gov.cn/">外专局</a>
+      
+        <a href="http://www.scs.gov.cn/">公务员局</a>
+      
+        <a href="http://www.soa.gov.cn">海洋局</a>
+      
+        <a href="http://www.sbsm.gov.cn/">测绘地信局</a>
+      
+        <a href="http://www.nra.gov.cn/">铁路局</a>
+      
+        <a href="http://www.caac.gov.cn/">民航局</a>
+      
+        <a href="http://www.spb.gov.cn/">邮政局</a>
+      
+        <a href="http://www.sach.gov.cn/">文物局</a>
+      
+        <a href="http://www.satcm.gov.cn/">中医药局</a>
+      
+        <a href="http://www.safe.gov.cn/">外汇局</a>
+      
+        <a href="http://www.chinacoal-safety.gov.cn/mkaj/">煤矿安监局</a>
+      
+        <a href="http://www.saac.gov.cn/">档案局</a>
+      
+        <a href="http://www.oscca.gov.cn">密码局</a>
+      
+        <a href="http://www.cpad.gov.cn">扶贫办</a>
+      
+        <a href="http://www.3g.gov.cn/index.ycs">三峡办</a>
+      
+        <a href="http://www.nsbd.gov.cn">南水北调办</a>
+      
+      </div>
+    </div>
+    <div class="select">
+      <div class="select_ set1">
+      
+        <a href="http://219.143.244.187:8888/12369EC/">环境应急与事故调查中心</a>
+      
+        <a href="http://hbdc.mep.gov.cn/">华北环境保护督查中心</a>
+      
+        <a href="http://ecesc.mep.gov.cn">华东环境保护督查中心</a>
+      
+        <a href="http://hndczx.mep.gov.cn/">华南环境保护督查中心</a>
+      
+        <a href="http://xbdc.mep.gov.cn/">西北环境保护督查中心</a>
+      
+        <a href="http://sws.mep.gov.cn/">西南环境保护督查中心</a>
+      
+        <a href="http://dbdc.mep.gov.cn">东北环境保护督查中心</a>
+      
+        <a href="http://nro.mep.gov.cn/">华北核与辐射安全监督站</a>
+      
+        <a href="http://nwro.mep.gov.cn/">西北核与辐射安全监督站</a>
+      
+        <a href="http://www.craes.cn/cn/index.html">中国环境科学研究院</a>
+      
+        <a href="http://www.cnemc.cn/">中国环境监测总站</a>
+      
+        <a href="http://www.edcmep.org.cn/">中日友好环境保护中心（环境发展中心）</a>
+      
+        <a href="http://www.prcee.org">环境与经济政策研究中心</a>
+      
+        <a href="http://www.cenews.com.cn/">中国环境报社</a>
+      
+        <a href="http://www.cesp.com.cn/">中国环境出版集团</a>
+      
+        <a href="http://www.chinansc.cn/web/">核与辐射安全中心</a>
+      
+        <a href="http://www.mepfeco.org.cn/">环境保护对外合作中心（环境公约履约技术中心）</a>
+      
+        <a href="http://www.nies.org/">南京环境科学研究所</a>
+      
+        <a href="http://www.scies.org/">华南环境科学研究所</a>
+      
+        <a href="http://www.caep.org.cn/">环境规划院</a>
+      
+        <a href="http://www.china-eia.com/">环境工程评估中心</a>
+      
+        <a href="http://www.secmep.cn/secPortal/portal/index.faces">卫星环境应用中心</a>
+      
+        <a href="http://www.chinaaseanenv.org">中国-东盟环境保护合作中心</a>
+      
+        <a href="http://www.mepscc.cn/">固体废物与化学品管理技术中心</a>
+      
+        <a href="http://www.chinacses.org/">中国环境科学学会</a>
+      
+        <a href="http://www.caepi.org.cn/">中国环境保护产业协会</a>
+      
+        <a href="http://www.cepf.org.cn/">中华环境保护基金会</a>
+      
+        <a href="http://www.tt65.net/">中国环境文化促进会</a>
+      
+        <a href="http://www.cfej.net/">中国环境新闻工作者协会</a>
+      
+        <a href="http://www.acef.com.cn/index.html">中华环保联合会</a>
+      
+        <a href="http://www.cecrpa.org.cn/index.htm">中国生态文明研究与促进会</a>
+      
+        <a href="http://www.sepact.com/">北京会议与培训基地</a>
+      
+        <a href="http://www.bdhetec.com.cn/">北戴河环境技术交流中心</a>
+      
+      </div>
+    </div>
+    <div class="select">
+      <div class="select_ set2">
+        
+        <a href="http://www.bjepb.gov.cn/">北京市环境保护局</a>
+
+      
+        <a href="http://www.tjhb.gov.cn/">天津市环境保护局</a>
+
+      
+        <a href="http://www.hebhb.gov.cn/">河北省环境保护厅</a>
+
+      
+        <a href="http://www.sxhb.gov.cn/">山西省环境保护厅</a>
+
+      
+        <a href="http://www.nmgepb.gov.cn/">内蒙古自治区环境保护厅</a>
+
+      
+        <a href="http://www.lnepb.gov.cn/">辽宁省环境保护厅</a>
+
+      
+        <a href="http://hbj.jl.gov.cn/">吉林省环境保护厅</a>
+
+      
+        <a href="http://www.hljdep.gov.cn/">黑龙江省环境保护厅</a>
+
+      
+        <a href="http://www.sepb.gov.cn/fa/cms/shhj/index.htm">上海市环境保护局</a>
+
+      
+        <a href="http://www.jshb.gov.cn/jshbw/index.html">江苏省环境保护厅</a>
+
+      
+        <a href="http://www.zjepb.gov.cn/hbtmhwz/index.htm">浙江省环境保护厅</a>
+
+      
+        <a href="http://www.aepb.gov.cn/pages/Home.html">安徽省环境保护厅</a>
+
+      
+        <a href="http://www.fjepb.gov.cn/">福建省环境保护厅</a>
+
+      
+        <a href="http://www.jxepb.gov.cn/">江西省环境保护厅</a>
+
+      
+        <a href="http://www.sdein.gov.cn/">山东省环境保护厅</a>
+
+      
+        <a href="http://www.hnep.gov.cn">河南省环境保护厅</a>
+
+      
+        <a href="http://www.hbepb.gov.cn/">湖北省环境保护厅</a>
+
+      
+        <a href="http://www.hbt.hunan.gov.cn">湖南省环境保护厅</a>
+
+      
+        <a href="http://www.gdep.gov.cn/">广东省环境保护厅</a>
+
+      
+        <a href="http://www.gxepb.gov.cn/">广西壮族自治区环境保护厅</a>
+
+      
+        <a href="http://www.ep.hainan.gov.cn/">海南省生态环境保护厅</a>
+
+      
+        <a href="http://www.cepb.gov.cn/">重庆市环境保护局</a>
+
+      
+        <a href="http://www.schj.gov.cn/">四川省环境保护厅</a>
+
+      
+        <a href="http://www.gzhjbh.gov.cn/">贵州省环境保护厅</a>
+
+      
+        <a href="http://www.ynepb.gov.cn/">云南省环境保护厅</a>
+
+      
+        <a href="http://www.xzep.gov.cn/">西藏自治区环境保护厅</a>
+
+      
+        <a href="http://www.snepb.gov.cn/">陕西省环境保护厅</a>
+
+      
+        <a href="http://www.gsep.gansu.gov.cn/">甘肃省环境保护厅</a>
+
+      
+        <a href="http://www.qhepb.gov.cn/">青海省环境保护厅</a>
+
+      
+        <a href="http://www.nxep.gov.cn/">宁夏回族自治区环境保护厅</a>
+
+      
+        <a href="http://www.xjepb.gov.cn/">新疆维吾尔自治区环境保护厅</a>
+
+      
+        <a href="http://jshbj.xjbt.gov.cn/">新疆生产建设兵团环境保护局</a>
+
+      
+      </div>
+    </div>
+    <div class="select">
+      <div class="select_ set3">
+        
+        <a href="http://www.chinaeol.net/">环境保护部宣传教育中心</a>
+      
+        <a href="http://www.chinaeic.net/">环境保护部信息中心</a>
+      
+        <a href="http://www.ierm.com.cn/">环境保护部标准样品研究所</a>
+      
+        <a href="http://www.cneac.com/">国家环境分析测试中心</a>
+      
+        <a href="http://www.mepcec.com/">环境保护部环境认证中心</a>
+      
+        <a href="http://www.chinaodor.com/">国家环境保护恶臭污染控制重点实验室</a>
+      
+        <a href="http://www.vecc-mep.org.cn/index.jsp">环境保护部机动车排污监控中心</a>
+      
+      </div>
+    </div>
+    <div class="clear"></div>
+</div>
+</div>
+<div class="select-tabs">
+	<ul>
+		<li>国务院部门</li>
+		<li>部直属单位</li>
+		<li>地方环保</li>
+		<li class="qt">其它</li>
+	</ul>
+</div>
+</div>
+
+    <div class="copyright">
+<div class="footer3_rf fr">
+
+        <div class="fl"><a href="http://www.mep.gov.cn/home/khdxz/" target="_blank">
+    <img class='erweim' width='71' height='71' src='/images/icon_12.png' /></a></div>
+        <div class="fl">
+    <img class='erweim' width='71' height='71' src='/images/icon_13.png' /></div>
+
+
+<!--        <div class="fl">
+          <p><a>
+      <img src='/images/bottomfont.png' /></a></p>
+          <a  href="http://www.mep.gov.cn/home/wbwx/201605/t20160527_352296.shtml" target="_blank" >
+      <img class="mr10" src='/images/icon_14.png' /></a>
+      <a  href="http://www.mep.gov.cn/home/wbwx/201605/t20160527_352248.shtml" target="_blank" >
+      <img src='/images/icon_15.png' /></a>
+        </div>
+ -->
+
+</div>
+    	<div class="txt">
+            <p class='footer_p'><a href="http://www.mep.gov.cn/home/wzsm/" style='padding-left:0px;'>网站声明</a><span>|</span><a href="http://www.mep.gov.cn/home/wzdt/">网站地图</a><span>|</span><a href="http://www.mep.gov.cn/home/lxwm/">联系我们</a><span>|</span>技术支持：中华人民共和国环境保护部信息中心</p>
+            <p class='footer_p'>版权所有：中华人民共和国环境保护部<span>|</span>ICP备案编号: 京ICP备05009132号</p>
+            <!---<p class='footer_p'>通讯地址：北京市西城区西直门南小街115号 邮编:100035 </p>--->
+        </div>
+    </div>
+  <a href="//bszs.conac.cn/sitename?method=show&amp;id=1ACC49F8764D14F7E053012819ACEFF4" target="_blank">
+  <img src="/images/red.png" id="imgConac" vspace="0" hspace="0" border="0" data-bd-imgshare-binded="1" /></a> 
+</div>
+   <script type='text/javascript' src='http://static.gridsumdissector.com/js/Clients/GWD-804218-F3A59A/gs.js'></script>
+<div style="display:none">
+<script type="text/javascript">document.write(unescape("%3Cscript src='http://cl3.webterren.com/webdig.js?z=41' type='text/javascript'%3E%3C/script%3E"));</script>
+<script type="text/javascript">wd_paramtracker("_wdxid=000000000000000000000000000000000000000000")</script>
+</div>
+</body>
+</html>
