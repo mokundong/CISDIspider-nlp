@@ -27,30 +27,33 @@ def AddreIdentify(addStr,addNameList):#地址分级
         if flag==0:
             addIdentify.append([addNameList[eachId][0],''])#如果要更严谨，还需去重
     return addIdentify
+    
+def saveAsCsv(projectAddreList):
+    csvfile = open('项目地点信息表.csv', 'w',newline ='')#在windows下如果不加newline=''，将隔行加入数据
+    writer = csv.writer(csvfile)
+    writer.writerow(['项目名称'	,'发布日期','建设地点','一级地区','二级地区'])
+    writer.writerows(projectAddreList)
+    csvfile.close()
 
-
-excelfile = xlrd.open_workbook('省市级名称表.xlsx')
-addName = excelfile.sheet_by_name("Sheet1")
-Nrows=35
-addNameList=[]
-for id in range(1,35):
-    temp=addName.row_values(id)[1:]
-    addNameList.append([addName.row_values(id)[0],temp])
-
-csvfile = open('项目拟审核公示表.csv', 'r')
-reader = csv.reader(csvfile)
-
-projectAddreList=[]
-coun=0
-for line in reader:
-    coun+=1
-    if coun!=1:
-        addIdentify=AddreIdentify(line[1],addNameList)
-        for n in range(0,len(addIdentify)):     
-            projectAddreList.append([line[0],line[4],line[1]]+addIdentify[n])
-csvfile.close() 
-csvfile = open('项目地点信息表.csv', 'w',newline ='')#在windows下如果不加newline=''，将隔行加入数据
-writer = csv.writer(csvfile)
-writer.writerow(['项目名称'	,'发布日期','建设地点','一级地区','二级地区'])
-writer.writerows(projectAddreList)
-csvfile.close()
+if __name__ == "__main__":
+    excelfile = xlrd.open_workbook('省市级名称表.xlsx')#读取省市名称列表
+    addName = excelfile.sheet_by_name("Sheet1")
+    Nrows=35
+    addNameList=[]#分别获取一级地区以及二级地区的列表
+    for id in range(1,35):
+        temp=addName.row_values(id)[1:]
+        addNameList.append([addName.row_values(id)[0],temp])
+    #打开项目拟审核公示表，提取其中的建设地点项目
+    csvfile = open('项目拟审核公示表.csv', 'r')
+    reader = csv.reader(csvfile) 
+    projectAddreList=[]
+    coun=0
+    for line in reader:
+        coun+=1
+        if coun!=1:
+            addIdentify=AddreIdentify(line[1],addNameList)#分级处理
+            for n in range(0,len(addIdentify)):     
+                projectAddreList.append([line[0],line[4],line[1]]+addIdentify[n])
+    csvfile.close()
+    
+    saveAsCsv(projectAddreList)

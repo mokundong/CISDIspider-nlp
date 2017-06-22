@@ -42,23 +42,26 @@ def GetInvestDataByRe(str,reExp1,reExp2):
         investandProp.extend([invest[-2].strip(),invest[-1],prop[-1]])
     return investandProp
 
+def saveAsCsv(investandPropList):
+    csvfile = open('项目投资额信息表.csv', 'w',newline ='')#在windows下如果不加newline=''，将隔行加入数据
+    writer = csv.writer(csvfile)
+    writer.writerow(['项目名称'	,'项目概况','总投资','环保投资','环保投资占比'])
+    writer.writerows(investandPropList)
+    csvfile.close()
 
-######正则表达式
-reExp1='([0-9. ]+[万亿]元)'#抽取项目总投资和环保投资金额
-reExp2='([0-9. ]+%)'#抽取占比
-
-csvfile = open('项目拟审核公示表.csv', 'r')
-reader = csv.reader(csvfile)
-investandPropList=[]
-coun=0
-for line in reader:
-    coun+=1
-    if coun!=1:
-        investandProp=GetInvestDataByRe(line[3][-150:],reExp1,reExp2)
-        investandPropList.append([line[0],line[3]]+investandProp)
-csvfile.close()
-csvfile = open('项目投资额信息表.csv', 'w',newline ='')#在windows下如果不加newline=''，将隔行加入数据
-writer = csv.writer(csvfile)
-writer.writerow(['项目名称'	,'项目概况','总投资','环保投资','环保投资占比'])
-writer.writerows(investandPropList)
-csvfile.close()
+if __name__ == "__main__":
+    reExp1='([0-9. ]+[万亿]元)'#抽取项目总投资和环保投资金额
+    reExp2='([0-9. ]+%)'#抽取占比
+    
+    csvfile = open('项目拟审核公示表.csv', 'r')
+    reader = csv.reader(csvfile)
+    investandPropList=[]
+    coun=0
+    for line in reader:
+        coun+=1
+        if coun!=1:
+            investandProp=GetInvestDataByRe(line[3][-150:],reExp1,reExp2)
+            investandPropList.append([line[0],line[3]]+investandProp)
+    csvfile.close()
+    
+    saveAsCsv(investandPropList)
